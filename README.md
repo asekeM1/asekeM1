@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asekeM1
-- 👀 I’m interested in html,css,bootstrap, php, laravel
+- 👀 I’m interested in php, laravel
 - 🌱 I’m currently learning php, laravel
 - 💞️ I’m looking to collaborate on google, apple
 - 📫 How to reach me - my telegram @aseke_aga
